@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import { FaRegSmileWink } from "react-icons/fa";
 import './index.scss'
 import Input from './Input';
 
@@ -45,7 +45,7 @@ function App() {
         : 
         <>
           <h1 className='main__headline'>Feedback form</h1>
-          <p className='main__text'>Thank you for your Feedback</p>
+          <p className='main__text'><FaRegSmileWink className='main__text--icon'/>Thank you for your Feedback</p>
         </>
       } 
     </main>

@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Input({ type, name, value, onChange }) {
   return (
     <label>
