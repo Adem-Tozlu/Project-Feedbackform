@@ -7,15 +7,17 @@ Dies ist die Lösung für eine Herausforderung beim DCI (Digital Career Institut
 
 ## Table of contents
 
-- [Overview](#overview)
+
+- [Übersicht](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Mein Prozess](#my-process)
+  - [Erstellt mit](#built-with)
   - [Frameworks](#frameworks)
   - [Tools](#tools)
-  - [What I learned](#what-i-learned)
+  - [Was ich gelernt habe](#what-i-learned)
 - [Author](#author)
+
 
 
 
