@@ -1,14 +1,14 @@
 import React from "react";
 
-function Input({ name, value, onChange }) {
+function Input({ type, name, value, onChange }) {
   return (
     <label>
-      <p>{name}</p>
-      {name === "message" ? (
-        <textarea name={name} value={value} onChange={onChange}></textarea>
+      <h3>{name}</h3>
+      {name === "Message" ? (
+        <textarea className="main__input--message" name={name} value={value} onChange={onChange}></textarea>
       ) : (
-        <input
-          type={name === "email" ? "email" : "text"}
+        <input className="main__input--text"
+          type={type}
           name={name}
           value={value}
           onChange={onChange}

@@ -2,7 +2,7 @@
 
 # Project – Feedbackform
 
-This is a solution to a challenge at the DCI (Digital Career Institute). The challenges help you improve your programming skills by creating realistic projects. This task was about creating a feedback form.
+Dies ist die Lösung für eine Herausforderung beim DCI (Digital Career Institute). Die Herausforderungen helfen dir dabei, deine Programmierfähigkeiten durch die Erstellung realistischer Projekte zu verbessern. Bei dieser Aufgabe ging es darum, ein Feedbackformular mit react zu erstellen.
 
 
 ## Table of contents
@@ -50,8 +50,7 @@ This is a solution to a challenge at the DCI (Digital Career Institute). The cha
  - Vite
 ### What I have learned
 
-
-I gained hands-on experience in building and manipulating React forms and learned how to effectively utilize the useState hook in this context.
+Während der Weiterbildung vertiefte ich meine Kenntnisse in der Erstellung und Bearbeitung von React-Formularen und lernte, wie man den useState-Hook effektiv in diesem Kontext einsetzt.
 
 ## Author
 
