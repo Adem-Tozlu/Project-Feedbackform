@@ -6,7 +6,7 @@ import Input from './Input';
 
 function App() {
   
-  const[data,setData]=useState({Title:"",Email:"",Message:""});
+  const[data,setData]=useState({title:"",email:"",message:""});
   const[submitted,setSubmitted]=useState(false)
 
   console.log(data);
@@ -21,7 +21,7 @@ function App() {
   
   function onSubmit(event) {
     event.preventDefault();
-    if (!data.Title || !data.Email || !data.Message ) {
+    if (!data.title || !data.email || !data.message ) {
       return alert("Please fill out all fields.");
 
     }if (!data.Email.includes("@")) {
@@ -36,9 +36,9 @@ function App() {
         <>
           <h1 className='main__headline'>Feedback form</h1> 
           <form onSubmit={onSubmit}>
-            <Input type={"text"} name={"Title"} value={data.Title} onChange={handleonChange}/>
-            <Input type={"text"} name={"Email"} value={data.Email} onChange={handleonChange}/>
-            <Input type={"text"} name={"Message"} value={data.Message} onChange={handleonChange}/>
+            <Input type={"text"} name={"Title"} value={data.title} onChange={handleonChange}/>
+            <Input type={"text"} name={"Email"} value={data.email} onChange={handleonChange}/>
+            <Input type={"text"} name={"Message"} value={data.message} onChange={handleonChange}/>
             <button className='main__button--submit'>Submit</button>
           </form>
         </> 
