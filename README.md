@@ -57,4 +57,4 @@ I gained hands-on experience in building and manipulating React forms and learne
 
 - Website - [Github](https://github.com/Adem-Tozlu)
 - Frontend Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
-- Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5)
+- Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu)
